@@ -1,4 +1,4 @@
-Esta es mi primera actualizacion del archivo.txt el cual esta en una rama de una rama de esta manera
+Esta es mi segunda actualizacion del archivo.txt el cual esta en una rama de una rama de esta manera
 	 ramaAA
 	ramaA
 master
@@ -11,4 +11,4 @@ viendolo de una manera mas desarrollada es la siguiente:
 
 *nosotros nos encontramos en este punto en especifico
 
-1
+2
