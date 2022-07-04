@@ -1,2 +1,2 @@
-Esta es mi segunda modificacion del archivo sera mi segundo commit
-2
+Esta es mi primera actualizacion del archivo.txt el cual esta en una rama (Inicio de la rama)
+1
