@@ -1,2 +1,14 @@
-Esta es mi primera actualizacion del archivo.txt el cual esta en una rama (Inicio de la rama)
+Esta es mi primera actualizacion del archivo.txt el cual esta en una rama de una rama de esta manera
+	 ramaAA
+	ramaA
+master
+
+viendolo de una manera mas desarrollada es la siguiente:
+
+	master
+		ramaA
+			*ramaAA
+
+*nosotros nos encontramos en este punto en especifico
+
 1
