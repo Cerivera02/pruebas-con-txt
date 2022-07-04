@@ -13,4 +13,4 @@ viendolo de una manera mas desarrollada es la siguiente:
 
 *nosotros nos encontramos en este punto en especifico
 
-2
+n+1=3
