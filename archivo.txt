@@ -1,2 +1,16 @@
 Esta es mi tercera modificacion a el archivo.txt el cual esta alojado en el MASTER
 3
+Esta es mi segunda actualizacion del archivo.txt el cual esta en una rama de una rama de esta manera
+	 ramaAA
+	ramaA
+master
+
+viendolo de una manera mas desarrollada es la siguiente:
+
+	master
+		ramaA
+			*ramaAA
+
+*nosotros nos encontramos en este punto en especifico
+
+2
